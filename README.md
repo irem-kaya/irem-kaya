@@ -31,14 +31,6 @@
 
 ---
 
-## 🎧 currently listening to
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true)
-
-> 🔧 **setup:** go to [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com) → connect your spotify → replace `YOUR_SPOTIFY_USER_ID` above with yours
-
----
-
 ## 🧠 the person behind the code
 
 i'm a mgt. information systems grad passionate about turning raw, messy data into decisions that actually matter. my world sits right at the crossroads of machine learning, data engineering, and thoughtful software — and i like it chaotic there.
