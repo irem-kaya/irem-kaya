@@ -25,7 +25,7 @@
 
 ## 🧠 The Person Behind the Code
 
-I'm a Management Information Systems student at Bursa Uludağ University, graduating in 2025, with a passion for turning raw data into meaningful decisions. My journey spans ML research, cloud infrastructure, and open-source contributions — always with an eye on real-world impact.
+I'm a Management Information Systems graduate from Bursa Uludağ University (2025), with a passion for turning raw data into meaningful decisions. My journey spans ML research, cloud infrastructure, and open-source contributions — always with an eye on real-world impact.
 
 Whether it's designing CNN pipelines for medical imaging, building ETL workflows for food-sector demand forecasting, or engineering autonomous AI agents for news summarization, I love working at the intersection of data science and software engineering. I'm driven by curiosity and believe the best software solves problems that actually matter.
 
