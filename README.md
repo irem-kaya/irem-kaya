@@ -20,7 +20,6 @@
 </div>
  
 ---
----
 
 ## 🚀 what i'm up to
 
