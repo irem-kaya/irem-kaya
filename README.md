@@ -2,9 +2,6 @@
 
 # hi, i'm irem nur kaya ✦
 
-### data & ai researcher · lofi-fueled night coder · problem solver
-*turning messy data into meaningful things since 2021*
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kayyirrem-7F77DD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kayyirrem)
