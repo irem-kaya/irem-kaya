@@ -1,76 +1,107 @@
 <div align="center">
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=hi,%20i'm%20irem%20nur%20kaya%20✦&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=data%20%26%20ai%20researcher%20·%20lofi-fueled%20night%20coder%20·%20problem%20solver&descAlignY=55&descSize=16" />
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D4537E&center=true&vCenter=true&random=false&width=600&lines=turning+messy+data+into+meaning+%E2%9C%A6;ML+researcher+%7C+data+engineer+%7C+builder;lofi+%2B+late+nights+%2B+python+%3D+me+%F0%9F%8E%A7)](https://git.io/typing-svg)
- 
+
+# hi, i'm irem nur kaya ✦
+
+### data & ai researcher · lofi-fueled night coder · problem solver
+*turning messy data into meaningful things since 2021*
+
 <br/>
- 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-kayyirrem-7F77DD?style=for-the-badge&logo=linkedin&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-irem--kaya.github.io-1D9E75?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-irem--kaya-D4537E?style=for-the-badge&logo=github&logoColor=white)
- 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kayyirrem-7F77DD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kayyirrem)
+[![Portfolio](https://img.shields.io/badge/Portfolio-irem--kaya.github.io-1D9E75?style=for-the-badge&logo=vercel&logoColor=white)](https://irem-kaya.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-irem--kaya-D4537E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irem-kaya)
+[![Email](https://img.shields.io/badge/Email-iremnurkaya61@gmail.com-BA7517?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iremnurkaya61@gmail.com)
+
 <br/>
- 
-![Top 0.1%](https://img.shields.io/badge/Data%20Science%20Scholar-Top%200.1%25%20%E2%80%94%2025K%2B%20candidates-1D9E75?style=flat-square)
-![GPA](https://img.shields.io/badge/GPA-3.37%2F4.00-BA7517?style=flat-square)
-![TEKNOFEST](https://img.shields.io/badge/TEKNOFEST-Finalist%20%E2%80%94%205%2C393%20teams-D4537E?style=flat-square)
-![TÜBİTAK](https://img.shields.io/badge/TÜBİTAK%202209--A-Funded%20Researcher-7F77DD?style=flat-square)
- 
+
+![](https://img.shields.io/badge/🎓%20MIS%20Graduate-Bursa%20Uludağ%20Uni%202025-EEEDFE?style=flat-square&labelColor=7F77DD&color=EEEDFE&logoColor=3C3489)
+![](https://img.shields.io/badge/⭐%20Data%20Science%20Scholar-Top%200.1%25%20of%2025K%2B-E1F5EE?style=flat-square&labelColor=1D9E75&color=E1F5EE)
+![](https://img.shields.io/badge/🎗️%20TEKNOFEST-Finalist%205%2C393%20Teams-FBEAF0?style=flat-square&labelColor=D4537E&color=FBEAF0)
+![](https://img.shields.io/badge/🔬%20TÜBİTAK%202209--A-Funded%20Researcher-FAEEDA?style=flat-square&labelColor=BA7517&color=FAEEDA)
+![](https://img.shields.io/badge/📊%20GPA-3.37%20%2F%204.00-FAECE7?style=flat-square&labelColor=D85A30&color=FAECE7)
+
 </div>
- 
+
 ---
 
 ## 🚀 what i'm up to
 
-- IT ops & data intern at an automotive tech company — monitoring IoT/PLC sensors, managing ERP systems in a hybrid Linux/Windows environment
-- **tübitak 2209-a** funded research: IoB + weather patterns → consumer behavior → Python ETL pipelines for demand forecasting
-- studying **cloud-native ML deployment** patterns in my spare time
-- ask me anything about **AI/ML, data pipelines, or full-stack dev** — from CNNs and BERT to RESTful APIs
-- fun fact: **teknofest finalist** among 5,393 teams, building a hybrid AI system for early breast cancer detection 🎗️
+- 🏭 IT ops & data intern at an automotive tech company — IoT/PLC sensors, ERP, hybrid Linux/Windows
+- 🔬 **tübitak 2209-a** funded: IoB + weather → consumer behavior · Python ETL pipelines for food sector demand forecasting
+- ☁️ studying cloud-native ML deployment patterns in my spare time
+- 💬 ask me about **AI/ML · data pipelines · full-stack dev** — CNNs & BERT to RESTful APIs
+- 🎗️ fun fact: **teknofest finalist** among 5,393 teams — built a hybrid AI for early breast cancer detection
 
 ---
 
 ## 🧠 the person behind the code
 
-i'm a mgt. information systems grad passionate about turning raw, messy data into decisions that actually matter. my world sits right at the crossroads of machine learning, data engineering, and thoughtful software — and i like it chaotic there.
+i'm a mgt. information systems grad who lives at the crossroads of machine learning, data engineering, and thoughtful software — and i like it chaotic there.
 
 i've built CNN pipelines for medical imaging, ETL workflows for food-sector forecasting, and autonomous AI agents for news summarization. i research things no one asked me to research, and i stay up too late doing it. i think that's the best way.
 
-outside the terminal: i care about education equity — led a team supporting visually impaired students for 8 months. also: strong opinions on coffee, a keyboard that's too loud for 2am, and a love for lofi that never ends. ^_^
+outside the terminal: i care about education equity — led a team supporting visually impaired students for 8 months. strong opinions on coffee, a keyboard that's too loud for 2am, lofi on repeat. ^_^
 
 ---
 
 ## 📂 featured projects
 
-| | project | status | description |
-|---|---|---|---|
-| 🎗️ | **teknofest — ai in healthcare** | finalist · 5,393 teams | hybrid CNN + BERT for early breast cancer detection. 82% BI-RADS accuracy with ResNet/AlexNet/VGGNet ensemble + NLP from radiology reports |
-| 🔬 | **tübitak 2209-a — iob research** | funded · ongoing | weather × consumer behavior correlation. Python ETL pipelines for demand forecasting + inventory optimization in food sector |
-| 📰 | **anadolu agency — media hackathon** | finalist | autonomous AI agent (ChatGPT API) for news summarization. BeautifulSoup scraping + NLP-based publishing workflow |
-| 📊 | **customer churn analysis** | 2025 | end-to-end ML pipeline with RFM feature engineering (XGBoost, Random Forest) to predict churn + KPI reporting |
+| | project | status | what i built |
+|:---:|---|:---:|---|
+| 🎗️ | **teknofest — ai in healthcare** | `finalist · 5,393 teams` | hybrid CNN + BERT for early breast cancer detection · 82% BI-RADS accuracy · ResNet / AlexNet / VGGNet ensemble + NLP from radiology reports |
+| 🔬 | **tübitak 2209-a — iob research** | `funded · ongoing` | weather × consumer behavior · Python ETL pipelines · demand forecasting + inventory optimization in food sector |
+| 📰 | **anadolu agency — media hackathon** | `finalist` | autonomous AI agent via ChatGPT API · BeautifulSoup scraping · NLP-based news publishing workflow |
+| 📊 | **customer churn analysis** | `2025` | end-to-end ML pipeline · RFM feature engineering · XGBoost + Random Forest · KPI reporting |
 
 ---
 
 ## 🛠 tech stack
 
-**languages** &nbsp;
-`python` `sql` `c#` `java`
+**languages**
 
-**ai / ml** &nbsp;
-`pytorch` `scikit-learn` `xgboost` `bert` `cnn` `nlp` `word embeddings`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-**data engineering** &nbsp;
-`pandas` `etl pipelines` `bigquery` `power bi` `dbt`
+**ai / ml**
 
-**cloud & infra** &nbsp;
-`aws (ec2, s3, lambda, rds, vpc)` `docker` `kubernetes` `linux` `ci/cd` `prtg monitor`
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-D4537E?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**dev & databases** &nbsp;
-`postgresql` `sql server` `next.js` `restful api` `liquibase` `git` `postman`
+**cloud & infra**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**dev & databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-<p align="center">
-  <i>thanks for stopping by · let's build something cool together ✦</i>
-</p>
+## 📊 github stats
+
+<div align="center">
+
+![irem-kaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=irem-kaya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4537E&icon_color=7F77DD&text_color=c9d1d9)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irem-kaya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4537E&text_color=c9d1d9)
+
+</div>
+
+---
+
+<div align="center">
+
+*thanks for stopping by · let's build something cool together ✦*
+
+</div>
