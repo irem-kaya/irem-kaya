@@ -16,7 +16,7 @@
 
 ## 🚀 What I'm Up To
 
-- Interning at **Vibracoustic** — monitoring 50+ IoT/PLC sensors and managing ERP systems in a hybrid Linux/Windows environment
+- Interning at an automotive tech company — monitoring 50+ IoT/PLC sensors and managing ERP systems in a hybrid Linux/Windows environment
 - Researching **IoB-based customer behavior analysis** funded by TÜBİTAK, building Python ETL pipelines for demand forecasting in the food sector
 - Ask me about **AI/ML, data pipelines, and full-stack dev** — from CNNs and BERT to RESTful APIs
 - Fun fact: I was a **TEKNOFEST finalist** among 5,393 teams, building a hybrid AI system for early breast cancer detection 🎗️
