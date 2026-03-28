@@ -18,7 +18,6 @@
 
 - Interning at **Vibracoustic** — monitoring 50+ IoT/PLC sensors and managing ERP systems in a hybrid Linux/Windows environment
 - Researching **IoB-based customer behavior analysis** funded by TÜBİTAK, building Python ETL pipelines for demand forecasting in the food sector
-- Contributing to **Trendyol's Baklava Design System** as an open-source contributor (PR #1153)
 - Ask me about **AI/ML, data pipelines, and full-stack dev** — from CNNs and BERT to RESTful APIs
 - Fun fact: I was a **TEKNOFEST finalist** among 5,393 teams, building a hybrid AI system for early breast cancer detection 🎗️
 
@@ -40,7 +39,6 @@ Outside the terminal, I care deeply about education equity — I led a social re
 |---|---|---|
 | 🎗️ **TEKNOFEST – AI in Healthcare** | Finalist (5,393 teams) | Hybrid CNN + BERT system for early breast cancer detection. 82% BI-RADS accuracy with ensemble learning (ResNet, AlexNet, VGGNet) + NLP from radiology reports |
 | 🔬 **TÜBİTAK 2209-A — IoB Research** | Funded · Ongoing | Weather-consumer behavior correlation using IoB. Python ETL pipelines for demand forecasting and inventory optimization in the food sector |
-| 🧩 **Trendyol – Baklava Design System** | Open Source · PR #1153 | Implemented WCAG 2.1 focus state story for `bl-button` in Trendyol's open-source component library |
 | 📰 **Anadolu Agency – Media Hackathon** | Finalist | Autonomous AI agent using ChatGPT API for news summarization. BeautifulSoup web scraping + NLP-based publishing workflow |
 | 📊 **Customer Churn Analysis** | 2025 | End-to-end ML pipeline with RFM feature engineering (XGBoost, Random Forest) to predict churn and report KPI insights |
 
