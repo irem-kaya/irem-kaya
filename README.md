@@ -86,22 +86,6 @@ outside the terminal: i care about education equity — led a team supporting vi
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-## 📊 github stats
 
-<div align="center">
 
-![irem-kaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=irem-kaya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4537E&icon_color=7F77DD&text_color=c9d1d9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irem-kaya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4537E&text_color=c9d1d9)
-
-</div>
-
----
-
-<div align="center">
-
-*thanks for stopping by · let's build something cool together ✦*
-
-</div>
