@@ -2,13 +2,6 @@
 
 # hi, i'm irem nur kaya ✦
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kayyirrem-7F77DD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kayyirrem)
-[![Portfolio](https://img.shields.io/badge/Portfolio-irem--kaya.github.io-1D9E75?style=for-the-badge&logo=vercel&logoColor=white)](https://irem-kaya.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-irem--kaya-D4537E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irem-kaya)
-
-<br/>
 
 
 </div>
