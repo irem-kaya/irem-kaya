@@ -2,11 +2,8 @@
 
 # hi, i'm irem nur kaya ✦
 
-
-
 </div>
 
----
 
 ## 🚀 what i'm up to
 
