@@ -10,11 +10,6 @@
 
 <br/>
 
-![](https://img.shields.io/badge/🎓%20MIS%20Graduate-Bursa%20Uludağ%20Uni%202025-EEEDFE?style=flat-square&labelColor=7F77DD&color=EEEDFE&logoColor=3C3489)
-![](https://img.shields.io/badge/⭐%20Data%20Science%20Scholar-Top%200.1%25%20of%2025K%2B-E1F5EE?style=flat-square&labelColor=1D9E75&color=E1F5EE)
-![](https://img.shields.io/badge/🎗️%20TEKNOFEST-Finalist%205%2C393%20Teams-FBEAF0?style=flat-square&labelColor=D4537E&color=FBEAF0)
-![](https://img.shields.io/badge/🔬%20TÜBİTAK%202209--A-Funded%20Researcher-FAEEDA?style=flat-square&labelColor=BA7517&color=FAEEDA)
-![](https://img.shields.io/badge/📊%20GPA-3.37%20%2F%204.00-FAECE7?style=flat-square&labelColor=D85A30&color=FAECE7)
 
 </div>
 
