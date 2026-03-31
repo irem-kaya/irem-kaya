@@ -7,7 +7,7 @@
 
 ## 🚀 what i'm up to
 
-- 🏭 IT ops & data intern at an automotive tech company — IoT/PLC sensors, ERP, hybrid Linux/Windows
+- 🏭 IT ops & data intern at an automotive tech company - IoT/PLC sensors, ERP, hybrid Linux/Windows
 - 🔬 **tübitak 2209-a** funded: IoB + weather → consumer behavior · Python ETL pipelines for food sector demand forecasting
 - ☁️ studying cloud-native ML deployment patterns in my spare time
 - 💬 ask me about **AI/ML · data pipelines · full-stack dev** - CNNs & BERT to RESTful APIs
@@ -17,7 +17,7 @@
 
 ## 🧠 the person behind the code
 
-i'm a mgt. information systems grad who lives at the crossroads of machine learning, data engineering, and thoughtful software - and i like it chaotic there.
+i'm a mgt. information systems grad who lives at the crossroads of machine learning, data engineering, and thoughtful software and i like it chaotic there.
 
 i've built CNN pipelines for medical imaging, ETL workflows for food-sector forecasting, and autonomous AI agents for news summarization. i research things no one asked me to research, and i stay up too late doing it. i think that's the best way.
 
@@ -29,9 +29,9 @@ outside the terminal: i care about education equity - led a team supporting visu
 
 | | project | status | what i built |
 |:---:|---|:---:|---|
-| 🎗️ | **teknofest — ai in healthcare** | `finalist · 5,393 teams` | hybrid CNN + BERT for early breast cancer detection · 82% BI-RADS accuracy · ResNet / AlexNet / VGGNet ensemble + NLP from radiology reports |
-| 🔬 | **tübitak 2209-a — iob research** | `funded · ongoing` | weather × consumer behavior · Python ETL pipelines · demand forecasting + inventory optimization in food sector |
-| 📰 | **anadolu agency — media hackathon** | `finalist` | autonomous AI agent via ChatGPT API · BeautifulSoup scraping · NLP-based news publishing workflow |
+| 🎗️ | **teknofest - ai in healthcare** | `finalist · 5,393 teams` | hybrid CNN + BERT for early breast cancer detection · 82% BI-RADS accuracy · ResNet / AlexNet / VGGNet ensemble + NLP from radiology reports |
+| 🔬 | **tübitak 2209-a - iob research** | `funded · ongoing` | weather × consumer behavior · Python ETL pipelines · demand forecasting + inventory optimization in food sector |
+| 📰 | **anadolu agency - media hackathon** | `finalist` | autonomous AI agent via ChatGPT API · BeautifulSoup scraping · NLP-based news publishing workflow |
 | 📊 | **customer churn analysis** | `2025` | end-to-end ML pipeline · RFM feature engineering · XGBoost + Random Forest · KPI reporting |
 
 ---
