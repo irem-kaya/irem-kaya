@@ -10,18 +10,18 @@
 - 🏭 IT ops & data intern at an automotive tech company — IoT/PLC sensors, ERP, hybrid Linux/Windows
 - 🔬 **tübitak 2209-a** funded: IoB + weather → consumer behavior · Python ETL pipelines for food sector demand forecasting
 - ☁️ studying cloud-native ML deployment patterns in my spare time
-- 💬 ask me about **AI/ML · data pipelines · full-stack dev** — CNNs & BERT to RESTful APIs
+- 💬 ask me about **AI/ML · data pipelines · full-stack dev** - CNNs & BERT to RESTful APIs
 - 🎗️ fun fact: **teknofest finalist** among 5,393 teams — built a hybrid AI for early breast cancer detection
 
 ---
 
 ## 🧠 the person behind the code
 
-i'm a mgt. information systems grad who lives at the crossroads of machine learning, data engineering, and thoughtful software — and i like it chaotic there.
+i'm a mgt. information systems grad who lives at the crossroads of machine learning, data engineering, and thoughtful software - and i like it chaotic there.
 
 i've built CNN pipelines for medical imaging, ETL workflows for food-sector forecasting, and autonomous AI agents for news summarization. i research things no one asked me to research, and i stay up too late doing it. i think that's the best way.
 
-outside the terminal: i care about education equity — led a team supporting visually impaired students for 8 months. strong opinions on coffee, a keyboard that's too loud for 2am, lofi on repeat. ^_^
+outside the terminal: i care about education equity - led a team supporting visually impaired students for 8 months. strong opinions on coffee, a keyboard that's too loud for 2am, lofi on repeat. ^_^
 
 ---
 
