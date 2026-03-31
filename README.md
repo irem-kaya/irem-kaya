@@ -5,16 +5,6 @@
 </div>
 
 
-## 🚀 what i'm up to
-
-- 🏭 IT ops & data intern at an automotive tech company - IoT/PLC sensors, ERP, hybrid Linux/Windows
-- 🔬 **tübitak** funded: IoB + weather → consumer behavior · Python ETL pipelines for food sector demand forecasting
-- ☁️ studying cloud-native ML deployment patterns in my spare time
-- 💬 ask me about **AI/ML · data pipelines · full-stack dev** - CNNs & BERT to RESTful APIs
-- 🎗️ fun fact: **teknofest finalist** built a hybrid AI for early breast cancer detection
-
----
-
 ## 🧠 the person behind the code
 
 i'm a mgt. information systems grad who lives at the crossroads of machine learning, data engineering, and thoughtful software and i like it chaotic there.
