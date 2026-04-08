@@ -5,7 +5,7 @@
 </div>
 
 
-## 🧠 the person behind the code
+## the person behind the code
 
 i'm a mgt. information systems grad who lives at the crossroads of machine learning, data engineering, and thoughtful software and i like it chaotic there.
 
@@ -14,7 +14,7 @@ i've built CNN pipelines for medical imaging, ETL workflows for food-sector fore
 outside the terminal: i care about education equity - led a team supporting visually impaired students for 8 months. strong opinions on coffee, a keyboard that's too loud for 2am, lofi on repeat. ^_^
 
 
-## 🛠 tech stack
+## tech stack
 
 **languages**
 
