@@ -11,7 +11,7 @@ i'm a mgt. information systems grad who lives at the crossroads of machine learn
 
 i've built CNN pipelines for medical imaging, ETL workflows for food-sector forecasting, and autonomous AI agents for news summarization. i research things no one asked me to research, and i stay up too late doing it. i think that's the best way.
 
-outside the terminal: i care about education equity - led a team supporting visually impaired students for 8 months. strong opinions on coffee, a keyboard that's too loud for 2am, lofi on repeat. ^_^
+outside the terminal: i care about education equity; led a team supporting visually impaired students for 8 months. strong opinions on coffee, a keyboard that's too loud for 2am, lofi on repeat. ^_^
 
 
 ## tech stack
