@@ -13,18 +13,6 @@ i've built CNN pipelines for medical imaging, ETL workflows for food-sector fore
 
 outside the terminal: i care about education equity - led a team supporting visually impaired students for 8 months. strong opinions on coffee, a keyboard that's too loud for 2am, lofi on repeat. ^_^
 
----
-
-## 📂 featured projects
-
-| | project | status | what i built |
-|:---:|---|:---:|---|
-| 🎗️ | **teknofest - ai in healthcare** | `finalist · 5,393 teams` | hybrid CNN + BERT for early breast cancer detection · 82% BI-RADS accuracy · ResNet / AlexNet / VGGNet ensemble + NLP from radiology reports |
-| 🔬 | **tübitak 2209-a - iob research** | `funded · ongoing` | weather × consumer behavior · Python ETL pipelines · demand forecasting + inventory optimization in food sector |
-| 📰 | **anadolu agency - media hackathon** | `finalist` | autonomous AI agent via ChatGPT API · BeautifulSoup scraping · NLP-based news publishing workflow |
-| 📊 | **customer churn analysis** | `2025` | end-to-end ML pipeline · RFM feature engineering · XGBoost + Random Forest · KPI reporting |
-
----
 
 ## 🛠 tech stack
 
